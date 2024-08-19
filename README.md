@@ -9,7 +9,8 @@
 <div align="center">
 
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshadsheelwant)
-  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadsheelwant2@gmail.com?body=Hey%20Harshad!%20%0A%0AFound%20your%20Github%20account%20very%20interesting%2C%20lets%20connect!)
+  <a href ="mailto:harshadsheelwant2@gmail.com?body=Hey%20Harshad!%20%0A%0AFound%20your%20Github%20account%20very%20interesting%2C%20lets%20connect!" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
 
 </div>
 <hr/>
