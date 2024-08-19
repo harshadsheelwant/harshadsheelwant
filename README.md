@@ -1,6 +1,36 @@
-## Hi there 👋
+<h3 align="center">
+ Hey there! Harshad here 👋
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning;Always+Growing)](https://git.io/typing-svg)
+<p align= "center"> <a href ="https://git.io/typing-svg"> <img src = "https://readme-typing-svg.demolab.com/?lines=Always+Learning!;Always+Growing!&center=true&width=500&height=50"/> </a> </p>
+
+<h1 align="center">Connect with me! 💬</h1>
+
+<div align="center">
+
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshadsheelwant)
+  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshadsheelwant2@gmail.com)
+
+</div>
+<hr/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/harshadsheelwant/count.svg" />
+</p>
+
+<img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+<!--<p align="center">
+  <a href="https://buymeacoffee.com/harshadsheelwant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+</p>-->
+
+
+
 
 <!--
 **harshadsheelwant/harshadsheelwant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
