@@ -23,7 +23,7 @@
 <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&?border=true&theme=radical)
 </div>
 
 <!--<p align="center">
